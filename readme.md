@@ -1,15 +1,26 @@
-- Firebase storing [done]
+# Project Overview
 
-- Dashboard. 
+This project involves various features and tasks related to the development of the Zion Teens Registration Form. Below is the current status of each task and some future considerations.
 
-- WElcome Page and Features in It.
+## Completed Tasks
+- **Firebase Storage**: Successfully integrated Firebase for data storage. [Done]
 
-- Autofill disable
+## Current Features
+- **Dashboard**: 
+  - Implementation of a robust dashboard for user interaction.
 
-- Flyer Design (Assign)
+- **Welcome Page**: 
+  - Features a welcoming message and various functionalities.
 
-- Dashboard (Robust)
+- **Autofill Disable**: 
+  - Disabled autofill for specific input fields to enhance user experience.
 
-- Website Design: Make research (RCCG)
+## Upcoming Tasks
+- **Flyer Design**: 
+  - Assign tasks for designing promotional flyers.
 
-- Bot deployment (Nice to have)
+- **Website Design**: 
+  - Conduct research on design elements specific to RCCG.
+
+- **Bot Deployment**: 
+  - Consider deploying a bot for additional features (Nice to have).
