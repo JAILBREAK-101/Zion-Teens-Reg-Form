@@ -1,0 +1,7 @@
+ apiKey: "AIzaSyBpDFqX0i526FPdiD1rlNeuDi0j85IkCnc",
+  authDomain: "church-registry.firebaseapp.com",
+  projectId: "church-registry",
+  storageBucket: "church-registry.appspot.com",
+  messagingSenderId: "537077355529",
+  appId: "1:537077355529:web:6faeee9d9e2492642d54d8",
+  measurementId: "G-BW7WRTCD2P".
