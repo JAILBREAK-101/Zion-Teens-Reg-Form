@@ -93,7 +93,7 @@ async function register() {
     });
 
     alert("Registration successful!");
-    window.location.href = "welcome.html";
+    window.location.href = "/welcome.html";
   } catch (error) {
     alert(`Error: ${error.message}`);
   }

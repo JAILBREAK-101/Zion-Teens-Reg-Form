@@ -1,0 +1,40 @@
+/* Center the content */
+#welcome-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    margin-top: 50px;
+  }
+  
+  /* Animated Smiley */
+  #smiley-face {
+    font-size: 4rem;
+    animation: bounce 1s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+  
+  /* Bible verse styling */
+  #bible-verse {
+    margin: 20px 0;
+    padding: 10px;
+    background-color: #f0f8ff;
+    border-radius: 8px;
+    width: 80%;
+  }
+  
+  /* Confirmation section styling */
+  #confirmation {
+    margin-top: 20px;
+  }
+  
+  #confirmation img {
+    max-width: 200px;
+    border-radius: 8px;
+  }
+  
