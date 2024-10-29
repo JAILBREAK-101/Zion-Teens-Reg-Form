@@ -11,3 +11,5 @@
 - Dashboard (Robust)
 
 - Website Design: Make research (RCCG)
+
+- Bot deployment (Nice to have)
